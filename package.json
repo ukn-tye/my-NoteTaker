@@ -1,0 +1,23 @@
+{
+  "name": "expressnotetaker",
+  "version": "1.0.0",
+  "description": "A note taker application that uses express.js and json to save and recieve data",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noahbrown26/ExpressNoteTaker.git"
+  },
+  "author": "Noah Brown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Noahbrown26/ExpressNoteTaker/issues"
+  },
+  "homepage": "https://github.com/Noahbrown26/ExpressNoteTaker#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security"
+  }
+}
